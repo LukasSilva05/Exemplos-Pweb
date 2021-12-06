@@ -9,12 +9,14 @@ body {
 }
 #header {
     border: solid 2px blue;
+    border-radius: 10px;
     text-align: center;
     padding: 2%;
 }
 
 #main {
     border: solid 2px blue;
+    border-radius: 10px;
     display: flex;
     flex-direction: row;
     padding: 10%;
@@ -23,6 +25,7 @@ body {
 
 .footer {
     border: solid 2px blue;
+    border-radius: 10px;
     display: flex;
     flex-direction: row;
     flex-basis: 50px;
@@ -30,30 +33,35 @@ body {
 }
 
 #img1 {
-    border: solid 2px blue; 
+    border: solid 2px blue;
+    border-radius: 10px; 
     flex: auto;
     padding: 2%;
 }
 
 #img2 {
     border: solid 2px blue;
+    border-radius: 10px;
     flex: auto;
     padding: 2%;
 }
 
 #img3 {
     border: solid 2px blue;
+    border-radius: 10px;
     flex: auto;
     padding: 2%;
 }
 
 #img4 {
     border: solid 2px blue;
+    border-radius: 10px;
     flex: auto;
     padding: 2%;
 }
 #img5 {
     border: solid 2px blue;
+    border-radius: 10px;
     flex: auto;
     padding: 2%;    
 }
