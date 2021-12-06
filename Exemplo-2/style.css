@@ -15,7 +15,7 @@ body {
 }
 
 #main {
-    border: solid 2px blue;
+/*     border: solid 2px blue; */
     border-radius: 10px;
     display: flex;
     flex-direction: row;
@@ -24,7 +24,7 @@ body {
 }
 
 .footer {
-    border: solid 2px blue;
+    /* border: solid 2px blue; */
     border-radius: 10px;
     display: flex;
     flex-direction: row;
