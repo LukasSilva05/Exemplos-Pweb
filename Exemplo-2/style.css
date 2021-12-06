@@ -57,3 +57,9 @@ body {
     flex: auto;
     padding: 2%;    
 }
+
+input {
+    border: none;
+    border-radius: 10px;
+    font-family: 'JetBrains Mono', monospace;
+}
