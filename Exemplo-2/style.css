@@ -8,7 +8,7 @@ body {
     color: white;
 }
 #header {
-    border: solid 2px blue;
+    border: solid 2px #ca3636;
     border-radius: 10px;
     text-align: center;
     padding: 2%;
@@ -33,34 +33,34 @@ body {
 }
 
 #img1 {
-    border: solid 2px blue;
+    border: solid 2px #ca3636;;
     border-radius: 10px; 
     flex: auto;
     padding: 2%;
 }
 
 #img2 {
-    border: solid 2px blue;
+    border: solid 2px #ca3636;;
     border-radius: 10px;
     flex: auto;
     padding: 2%;
 }
 
 #img3 {
-    border: solid 2px blue;
+    border: solid 2px #ca3636;;
     border-radius: 10px;
     flex: auto;
     padding: 2%;
 }
 
 #img4 {
-    border: solid 2px blue;
+    border: solid 2px #ca3636;;
     border-radius: 10px;
     flex: auto;
     padding: 2%;
 }
 #img5 {
-    border: solid 2px blue;
+    border: solid 2px #ca3636;;
     border-radius: 10px;
     flex: auto;
     padding: 2%;    
